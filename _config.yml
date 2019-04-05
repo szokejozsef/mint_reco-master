@@ -11,7 +11,7 @@ owner: Mintreco #
 first_published: 2019 # 
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://szokejozsef.github.io/mintreco/" # the base hostname & protocol for your site
+url: "https://szokejozsef.github.io/mint_reco-master/" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
